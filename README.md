@@ -1,6 +1,6 @@
 # Gemini CLI - Image Description Project
 
-This project demonstrates how to analyze and describe images using **Google's Gemini CLI**.
+Gemini CLI Image Description Project This project demonstrates how to analyze images using Google's Gemini CLI. This project is ideal for anyone learning: ✔ Gemini CLI basics ✔ File-based AI interaction ✔ Prompt engineering ✔ LLM-powered image understanding
 
 ## 📌 Overview
 The goal of this project is to:
@@ -72,4 +72,4 @@ Aap kisi bhi model ka naam yahan use kar sakti ho
 Ye command ensures karta hai ke aapka request specific model se run ho
 
 # gemini_cli_project
-Gemini CLI Image Description Project This project demonstrates how to analyze images using Google's Gemini CLI. This project is ideal for anyone learning: ✔ Gemini CLI basics ✔ File-based AI interaction ✔ Prompt engineering ✔ LLM-powered image understanding
+
